@@ -11,7 +11,9 @@ class Philippines:
     def __init__(self) -> None:
         self.location = "Philippines"
         self.source_url = "https://e.infogram.com/_/yFVE69R1WlSdqY3aCsBF"
-        self.source_url_ref = "https://news.abs-cbn.com/spotlight/multimedia/infographic/03/23/21/philippines-covid-19-vaccine-tracker"
+        self.source_url_ref = (
+            "https://news.abs-cbn.com/spotlight/multimedia/infographic/03/23/21/philippines-covid-19-vaccine-tracker"
+        )
 
     def read(self) -> pd.Series:
         return pd.Series(data=self._parse_data())
@@ -20,16 +22,13 @@ class Philippines:
         with get_driver() as driver:
             driver.get(self.source_url)
             time.sleep(2)
-            spans = [
-                span
-                for span in driver.find_elements_by_tag_name("span")
-                if span.get_attribute("data-text")
-            ]
+            spans = [span for span in driver.find_elements_by_tag_name("span") if span.get_attribute("data-text")]
             # Date
             date = extract_clean_date(
                 spans[6].text,
                 "\(as of ([a-zA-Z]+)\.\s?(\d{1,2}), (20\d{2})\)",
                 "%b %d %Y",
+                lang="en",
             )
             # Metrics
             total_vaccinations = clean_count(spans[8].text)
@@ -37,13 +36,11 @@ class Philippines:
             people_fully_vaccinated = clean_count(spans[14].text)
         # Sanity check
         if total_vaccinations != people_vaccinated + people_fully_vaccinated:
-            raise ValueError(
-                "total_vaccinations should equal sum of first and second doses."
-            )
+            raise ValueError("total_vaccinations should equal sum of first and second doses.")
 
         return {
             "total_vaccinations": total_vaccinations,
-            "people_vaccinated": people_vaccinated,
+            # "people_vaccinated": people_vaccinated,
             "people_fully_vaccinated": people_fully_vaccinated,
             "date": date,
         }
@@ -66,9 +63,7 @@ class Philippines:
         )
 
     def pipeline(self, ds: pd.Series) -> pd.Series:
-        return (
-            ds.pipe(self.pipe_location).pipe(self.pipe_vaccine).pipe(self.pipe_source)
-        )
+        return ds.pipe(self.pipe_location).pipe(self.pipe_vaccine).pipe(self.pipe_source)
 
     def export(self, paths):
         data = self.read().pipe(self.pipeline)
@@ -76,7 +71,7 @@ class Philippines:
             paths=paths,
             location=data["location"],
             total_vaccinations=data["total_vaccinations"],
-            people_vaccinated=data["people_vaccinated"],
+            # people_vaccinated=data["people_vaccinated"],
             people_fully_vaccinated=data["people_fully_vaccinated"],
             date=data["date"],
             source_url=data["source_url"],

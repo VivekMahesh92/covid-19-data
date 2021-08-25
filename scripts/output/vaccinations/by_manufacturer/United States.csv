@@ -210,6 +210,12 @@ date,location,vaccine,total_vaccinations
 2021-08-15,United States,Pfizer/BioNTech,200551649.0
 2021-08-16,United States,Pfizer/BioNTech,201153708.0
 2021-08-17,United States,Pfizer/BioNTech,201577973.0
+2021-08-18,United States,Pfizer/BioNTech,202051500.0
+2021-08-19,United States,Pfizer/BioNTech,202736783.0
+2021-08-20,United States,Pfizer/BioNTech,203416431.0
+2021-08-21,United States,Pfizer/BioNTech,204095863.0
+2021-08-22,United States,Pfizer/BioNTech,204750908.0
+2021-08-23,United States,Pfizer/BioNTech,205176686.0
 2021-01-12,United States,Moderna,3835859.0
 2021-01-13,United States,Moderna,4249795.0
 2021-01-15,United States,Moderna,5122662.0
@@ -421,6 +427,12 @@ date,location,vaccine,total_vaccinations
 2021-08-15,United States,Moderna,141656626.0
 2021-08-16,United States,Moderna,141882801.0
 2021-08-17,United States,Moderna,142042199.0
+2021-08-18,United States,Moderna,142239152.0
+2021-08-19,United States,Moderna,142536887.0
+2021-08-20,United States,Moderna,142827859.0
+2021-08-21,United States,Moderna,143147929.0
+2021-08-22,United States,Moderna,143433946.0
+2021-08-23,United States,Moderna,143604049.0
 2021-03-08,United States,Johnson&Johnson,208590.0
 2021-03-09,United States,Johnson&Johnson,308181.0
 2021-03-10,United States,Johnson&Johnson,458911.0
@@ -582,3 +594,9 @@ date,location,vaccine,total_vaccinations
 2021-08-15,United States,Johnson&Johnson,13892386.0
 2021-08-16,United States,Johnson&Johnson,13921901.0
 2021-08-17,United States,Johnson&Johnson,13940856.0
+2021-08-18,United States,Johnson&Johnson,13973354.0
+2021-08-19,United States,Johnson&Johnson,14011758.0
+2021-08-20,United States,Johnson&Johnson,14050126.0
+2021-08-21,United States,Johnson&Johnson,14099089.0
+2021-08-22,United States,Johnson&Johnson,14130274.0
+2021-08-23,United States,Johnson&Johnson,14144305.0

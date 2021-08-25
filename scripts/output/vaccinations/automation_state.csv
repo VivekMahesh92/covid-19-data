@@ -1,6 +1,7 @@
 location,automated
 Afghanistan,True
 Albania,True
+Algeria,True
 Andorra,True
 Angola,True
 Anguilla,True
@@ -53,6 +54,7 @@ El Salvador,True
 England,True
 Equatorial Guinea,True
 Estonia,True
+Eswatini,True
 Faeroe Islands,True
 Fiji,True
 Finland,True
@@ -112,6 +114,7 @@ Montserrat,True
 Morocco,True
 Mozambique,True
 Myanmar,True
+Namibia,True
 Nauru,True
 Nepal,True
 Netherlands,True
@@ -126,7 +129,9 @@ Northern Ireland,True
 Norway,True
 Oman,True
 Pakistan,True
+Panama,True
 Papua New Guinea,True
+Paraguay,True
 Peru,True
 Philippines,True
 Pitcairn,True
@@ -187,7 +192,6 @@ Wallis and Futuna,True
 Yemen,True
 Zambia,True
 Zimbabwe,True
-Algeria,False
 Barbados,False
 Belize,False
 Bosnia and Herzegovina,False
@@ -196,7 +200,6 @@ Brunei,False
 Cambodia,False
 China,False
 Cote d'Ivoire,False
-Eswatini,False
 Ethiopia,False
 Falkland Islands,False
 Gibraltar,False
@@ -209,11 +212,8 @@ Kuwait,False
 Malawi,False
 Maldives,False
 Mexico,False
-Namibia,False
 North Macedonia,False
 Palestine,False
-Panama,False
-Paraguay,False
 Saint Helena,False
 Saint Kitts and Nevis,False
 Saint Vincent and the Grenadines,False

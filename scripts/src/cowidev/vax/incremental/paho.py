@@ -18,13 +18,15 @@ logger = get_logger()
 
 
 COUNTRIES = {
-    "Bermuda": "Bermuda",
     "Bahamas": "Bahamas",
+    "Bermuda": "Bermuda",
     "Dominica": "Dominica",
     "Honduras": "Honduras",
     "Jamaica": "Jamaica",
-    "Venezuela": "Venezuela",
     "Nicaragua": "Nicaragua",
+    "Panama": "Panama",
+    "Paraguay": "Paraguay",
+    "Venezuela": "Venezuela",
 }
 
 
@@ -40,6 +42,7 @@ class PAHO:
             "Second dose [4,6]": "dose_2",
             "Complete Schedule [2]": "people_fully_vaccinated",
             "Total Doses [1,11]": "total_vaccinations",
+            "Additional dose [9]": "total_boosters",
             "date": "date",
         }
 
@@ -65,9 +68,7 @@ class PAHO:
             self._download_csv(driver, "Crosstab", "RDT: Overview Table")
             # Load downloadded file
             filename = self._get_downloaded_filename()
-            df = pd.read_csv(
-                filename, sep="\t", encoding=get_file_encoding(filename), thousands=","
-            )
+            df = pd.read_csv(filename, sep="\t", encoding=get_file_encoding(filename), thousands=",")
             os.remove(filename)
             df = df.assign(date=self._parse_date(driver))
         return df
@@ -107,16 +108,14 @@ class PAHO:
 
     def _get_downloaded_filename(self):
         files = glob(os.path.join(self._download_path, "*.csv"))
-        print(files)
+        # print(files)
         return max(files, key=os.path.getctime)
 
     def pipe_check_columns(self, df: pd.DataFrame) -> pd.DataFrame:
         columns_missing = set(self.columns_mapping).difference(df.columns)
         columns_unknown = df.columns.difference(self.columns_mapping)
         if columns_missing:
-            raise ValueError(
-                f"Missing column fields: {columns_missing}. Unknown columns: {columns_unknown}"
-            )
+            raise ValueError(f"Missing column fields: {columns_missing}")
         return df
 
     def pipe_rename_columns(self, df: pd.DataFrame) -> pd.DataFrame:
@@ -140,15 +139,11 @@ class PAHO:
 
     def pipe_vaccine(self, df: pd.DataFrame) -> pd.DataFrame:
         url = "https://covid19.who.int/who-data/vaccination-data.csv"
-        df_who = pd.read_csv(url, usecols=["ISO3", "VACCINES_USED"]).rename(
-            columns={"VACCINES_USED": "vaccine"}
-        )
+        df_who = pd.read_csv(url, usecols=["ISO3", "VACCINES_USED"]).rename(columns={"VACCINES_USED": "vaccine"})
         df_who = df_who.dropna(subset=["vaccine"])
         df_who = df_who.assign(
             vaccine=df_who.vaccine.apply(
-                lambda x: ", ".join(
-                    sorted(set(VACCINES_WHO_MAPPING[xx.strip()] for xx in x.split(",")))
-                )
+                lambda x: ", ".join(sorted(set(VACCINES_WHO_MAPPING[xx.strip()] for xx in x.split(","))))
             )
         )
         df = df.merge(df_who, left_on="country_code", right_on="ISO3")
@@ -164,6 +159,7 @@ class PAHO:
                 "total_vaccinations",
                 "people_vaccinated",
                 "people_fully_vaccinated",
+                "total_boosters",
             ]
         ]
 
@@ -187,6 +183,7 @@ class PAHO:
                 total_vaccinations=row["total_vaccinations"],
                 people_vaccinated=row["people_vaccinated"],
                 people_fully_vaccinated=row["people_fully_vaccinated"],
+                total_boosters=row["total_boosters"],
                 date=row["date"],
                 vaccine=row["vaccine"],
                 source_url=row["source_url"],

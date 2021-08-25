@@ -7,236 +7,242 @@ date,people_fully_vaccinated,people_vaccinated,total_vaccinations,vaccine,locati
 2020-12-23,,9,9.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
 2020-12-24,,13,13.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
 2020-12-26,,15,15.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2020-12-27,,6164,6164.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2020-12-28,,8141,8141.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2020-12-29,,16730,16730.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2020-12-30,,27725,27725.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2020-12-31,,33557,33557.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-01,,35775,35775.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-02,,44139,44139.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-03,,49763,49763.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-04,1.0,52143,52144.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-05,1.0,65049,65050.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-06,1.0,83804,83805.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-07,2.0,100429,100431.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-08,3.0,108490,108493.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-09,4.0,110358,110362.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-10,4.0,111178,111182.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-11,4.0,111837,111841.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-12,5.0,112299,112304.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-13,6.0,124730,124736.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-14,7.0,142136,142143.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-15,12.0,156851,156863.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-16,20.0,161318,161338.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-17,686.0,163707,164393.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-18,2728.0,167440,170168.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-19,4716.0,169838,174554.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-20,6514.0,171307,177821.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-21,8776.0,172795,181571.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-22,14296.0,173441,187737.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-23,21109.0,174152,195261.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-24,27325.0,174730,202055.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-25,29703.0,175008,204711.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-26,31377.0,175217,206594.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-27,35619.0,175419,211038.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-28,43603.0,175639,219242.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-29,61402.0,176713,238115.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-30,73873.0,177871,251744.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-01-31,85639.0,179038,264677.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-01,93342.0,179781,273123.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-02,96291.0,181727,278018.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-03,102373.0,183210,285583.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-04,113109.0,184595,297704.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-05,126232.0,186141,312373.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-06,132861.0,187132,319993.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-07,136437.0,188974,325411.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-08,143352.0,191437,334789.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-09,148145.0,194908,343053.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-10,151985.0,198156,350141.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-11,154416.0,203815,358231.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-12,162002.0,215819,377821.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-13,162956.0,222298,385254.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-14,163576.0,228459,392035.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-15,166692.0,242069,408761.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-16,168010.0,255128,423138.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-17,168437.0,265453,433890.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-18,168746.0,276831,445577.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-19,169706.0,290590,460296.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-20,170280.0,300933,471213.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-21,170639.0,311597,482236.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-22,171741.0,324975,496716.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-23,173657.0,339231,512888.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-24,175578.0,352817,528395.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-25,176199.0,367283,543482.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-26,177210.0,403080,580290.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-27,178630.0,409668,588298.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-02-28,180009.0,420515,600524.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-01,181072.0,440089,621161.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-02,182358.0,456700,639058.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-03,183376.0,469638,653014.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-04,185179.0,487021,672200.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-05,190855.0,503517,694372.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-06,194792.0,518051,712843.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-07,199085.0,529984,729069.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-08,205493.0,539522,745015.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-09,212636.0,550360,762996.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-10,219810.0,562355,782165.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-11,227739.0,566888,794627.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-12,238260.0,570215,808475.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-13,244132.0,574715,818847.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-14,253447.0,575937,829384.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-15,263264.0,578732,841996.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-16,272666.0,585511,858177.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-17,281781.0,596212,877993.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-18,288997.0,610844,899841.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-19,300691.0,618652,919343.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-20,305487.0,621608,927095.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-21,310132.0,626569,936701.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-22,317858.0,630662,948520.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-23,325406.0,636768,962174.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-24,338831.0,646608,985439.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-25,347225.0,654330,1001555.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-26,355054.0,660501,1015555.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-27,358157.0,670459,1028616.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-28,360962.0,681220,1042182.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-29,367158.0,699182,1066340.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-30,373199.0,720797,1093996.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-03-31,382940.0,733854,1116794.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-01,389853.0,738074,1127927.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-02,396841.0,742976,1139817.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-03,399029.0,755087,1154116.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-04,400806.0,766759,1167565.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-05,402134.0,779071,1181205.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-06,408246.0,795087,1203333.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-07,416490.0,811705,1228195.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-08,425069.0,825447,1250516.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-09,433758.0,841923,1275681.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-10,439204.0,858684,1297888.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-11,443124.0,873578,1316702.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-12,454669.0,967602,1422271.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-13,460925.0,986115,1447040.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-14,472116.0,997567,1469683.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-15,481238.0,1012880,1494118.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-16,489422.0,1030299,1519721.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-17,492167.0,1049093,1541260.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-18,497307.0,1063590,1560897.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-19,511711.0,1088422,1600133.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-20,528698.0,1110462,1639160.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-21,541462.0,1132990,1674452.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-22,546868.0,1161240,1708108.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-23,558095.0,1183410,1741505.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-24,565695.0,1198318,1764013.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-25,570984.0,1213524,1784508.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-26,578867.0,1245015,1823882.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-27,599784.0,1271597,1871381.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-28,620380.0,1295726,1916106.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-29,638325.0,1321654,1959979.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-04-30,642283.0,1335098,1977381.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-01,648411.0,1342411,1990822.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-02,662213.0,1359074,2021287.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-03,707960.0,1379529,2087489.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-04,732761.0,1407186,2139947.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-05,762034.0,1434012,2196046.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-06,787611.0,1455555,2243166.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-07,812230.0,1472050,2284280.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-08,843078.0,1481517,2324595.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-09,859781.0,1497435,2357216.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-10,895942.0,1524007,2419949.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-11,922222.0,1553712,2475934.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-12,949231.0,1579882,2529113.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-13,968937.0,1599574,2568511.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-14,999740.0,1620154,2619894.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-15,1019197.0,1635568,2654765.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-16,1033282.0,1655544,2688826.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-17,1063452.0,1686577,2750029.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-18,1094264.0,1716159,2810423.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-19,1116919.0,1747913,2864832.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-20,1139285.0,1780386,2919671.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-21,1158567.0,1815674,2974241.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-22,1170463.0,1841615,3012078.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-23,1176660.0,1864198,3040858.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-24,1186392.0,1887620,3074012.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-25,1199290.0,1931083,3130373.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-26,1211419.0,1978515,3202272.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-27,1223837.0,2027846,3263722.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-28,1233592.0,2068872,3314281.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-29,1238826.0,2098705,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-30,1245805.0,2124540,3348871.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-05-31,1267323.0,2160686,3438466.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-01,1285014.0,2200435,3495075.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-02,1302419.0,2243056,3554231.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-03,1326158.0,2279307,3612098.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-04,1340460.0,2320711,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-05,1347977.0,2355712,3665526.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-06,1363121.0,2385680,3749225.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-07,1384993.0,2439301,3820991.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-08,1409682.0,2492808,3896573.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-09,1433936.0,2545607,3972034.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-10,1451466.0,2604499,4045284.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-11,1469808.0,2652996,4109035.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-12,1482707.0,2686571,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-13,1496104.0,2720198,4152819.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-14,1518211.0,2772693,4267769.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-15,1536850.0,2833081,4345062.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-16,1562840.0,2885011,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-17,1584472.0,2936036,4427939.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-18,1611699.0,2970955,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-19,1629744.0,2994707,4554158.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-20,1645467.0,3023869,4611850.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-21,1671484.0,3063310,4703566.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-22,1698585.0,3109723,4776243.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-23,1731215.0,3148127,4846625.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-24,1765705.0,3181901,4913766.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-25,1798499.0,3211029,4975336.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-26,1821086.0,3230068,5016668.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-27,1845355.0,3246211,5056765.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-28,1879660.0,3276729,5120632.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-29,1921905.0,3307205,5192820.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-06-30,1960522.0,3339959,5263677.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-01,2001153.0,3371661,5335577.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-02,2045250.0,3391229,5398716.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-03,2077956.0,3402792,5442863.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-04,2107312.0,3415604,5484919.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-05,2150412.0,3448130,5559851.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-06,2192700.0,3488358,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-07,2232346.0,3534811,5642905.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-08,2269222.0,3582078,5812028.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-09,2302424.0,3627239,5890105.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-10,2324160.0,3658121,5942561.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-11,2346160.0,3692862,5999248.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-12,2400706.0,3728409,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-13,2450370.0,3769206,6088821.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-14,2495116.0,3812385,6266892.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-15,2548607.0,3845533,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-16,2592118.0,3875677,6353144.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-17,2618531.0,3900122,6477508.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-18,2652467.0,3920556,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-19,2707049.0,3953142,6531932.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-20,2763570.0,3986213,6707916.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-21,2818680.0,4016329,6792878.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-22,2870472.0,4040702,6868767.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-23,2914158.0,4065498,6937158.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-24,2937908.0,4083111,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-25,2969436.0,4096524,6978645.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-26,3011509.0,4121568,7090073.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-27,3056311.0,4144693,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-28,3099614.0,4163718,7157842.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-29,3138595.0,4182540,7277777.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-30,3173407.0,4196768,7326543.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-07-31,3193456.0,4203251,7353133.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-01,3212654.0,4212073,7381165.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-02,3253285.0,4228410,7437151.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-03,3296360.0,4241907,7493625.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-04,3340962.0,4253331,7549532.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-05,3380842.0,4264794,7600721.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-06,3420826.0,4274754,7650641.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-07,3447851.0,4282496,7685348.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-08,3483810.0,4286604,7725456.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-09,3539303.0,4296619,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-10,3594089.0,4306528,7790238.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-11,3651658.0,4312751,7918713.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-12,3701805.0,4318744,7974868.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-13,3748738.0,4325188,8028257.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-14,3784116.0,4329514,8068015.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-15,3821619.0,4334021,8110049.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
-2021-08-16,3866687.0,4341273,8161508.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2020-12-27,,6156,6156.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2020-12-28,,8129,8129.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2020-12-29,,16710,16710.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2020-12-30,,27696,27696.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2020-12-31,,33522,33522.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-01,,35736,35736.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-02,,44093,44093.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-03,,49710,49710.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-04,1.0,52090,52091.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-05,1.0,64969,64970.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-06,1.0,83701,83702.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-07,2.0,100308,100310.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-08,3.0,108359,108362.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-09,4.0,110226,110230.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-10,4.0,111046,111050.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-11,4.0,111705,111709.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-12,5.0,112167,112172.0,Pfizer/BioNTech,Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-13,6.0,124588,124594.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-14,7.0,141983,141990.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-15,12.0,156685,156697.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-16,20.0,161148,161168.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-17,685.0,163532,164217.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-18,2723.0,167258,169981.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-19,4708.0,169654,174362.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-20,6504.0,171123,177627.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-21,8765.0,172613,181378.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-22,14272.0,173259,187531.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-23,21076.0,173969,195045.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-24,27281.0,174547,201828.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-25,29664.0,174824,204488.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-26,31338.0,175033,206371.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-27,35579.0,175235,210814.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-28,43559.0,175455,219014.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-29,61330.0,176527,237857.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-30,73790.0,177684,251474.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-01-31,85538.0,178851,264389.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-01,93232.0,179594,272826.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-02,96179.0,181540,277719.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-03,102256.0,183019,285275.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-04,112986.0,184405,297391.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-05,126093.0,185951,312044.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-06,132714.0,186941,319655.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-07,136287.0,188779,325066.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-08,143196.0,191240,334436.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-09,147983.0,194707,342690.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-10,151820.0,197954,349774.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-11,154249.0,203612,357861.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-12,161834.0,215611,377445.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-13,162789.0,222083,384872.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-14,163409.0,228243,391652.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-15,166525.0,241839,408364.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-16,167841.0,254893,422734.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-17,168268.0,265213,433481.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-18,168578.0,276587,445165.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-19,169536.0,290339,459875.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-20,170110.0,300676,470786.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-21,170469.0,311334,481803.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-22,171573.0,324709,496282.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-23,173490.0,338960,512450.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-24,175409.0,352533,527942.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-25,176031.0,366996,543027.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-26,177043.0,402785,579828.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-27,178460.0,409369,587829.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-02-28,179836.0,420207,600043.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-01,180899.0,439775,620674.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-02,182180.0,456381,638561.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-03,183198.0,469316,652514.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-04,185001.0,486700,671701.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-05,190676.0,503191,693867.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-06,194606.0,517723,712329.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-07,198896.0,529654,728550.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-08,205299.0,539186,744485.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-09,212434.0,550019,762453.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-10,219605.0,562010,781615.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-11,227529.0,566541,794070.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-12,238043.0,569865,807908.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-13,243911.0,574364,818275.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-14,253222.0,575588,828810.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-15,263033.0,578379,841412.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-16,272426.0,585157,857583.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-17,281527.0,595853,877380.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-18,288735.0,610477,899212.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-19,300418.0,618283,918701.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-20,305210.0,621237,926447.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-21,309851.0,626198,936049.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-22,317576.0,630291,947867.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-23,325123.0,636398,961521.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-24,338538.0,646234,984772.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-25,346927.0,653953,1000880.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-26,354755.0,660123,1014878.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-27,357857.0,670079,1027936.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-28,360661.0,680841,1041502.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-29,366851.0,698797,1065648.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-30,372889.0,720406,1093295.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-03-31,382626.0,733462,1116088.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-01,389537.0,737682,1127219.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-02,396523.0,742584,1139107.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-03,398710.0,754696,1153406.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-04,400487.0,766363,1166850.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-05,401814.0,778673,1180487.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-06,407925.0,794683,1202608.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-07,416162.0,811299,1227461.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-08,424738.0,825044,1249782.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-09,433422.0,841515,1274937.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-10,438867.0,858280,1297147.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-11,442787.0,873167,1315954.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-12,454327.0,967178,1421505.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-13,460582.0,985690,1446272.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-14,471770.0,997137,1468907.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-15,480885.0,1012449,1493334.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-16,489067.0,1029866,1518933.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-17,491812.0,1048660,1540472.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-18,496954.0,1063153,1560107.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-19,511352.0,1087984,1599336.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-20,528332.0,1110024,1638356.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-21,541091.0,1132551,1673642.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-22,546497.0,1160804,1707301.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-23,557723.0,1182975,1740698.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-24,565320.0,1197881,1763201.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-25,570608.0,1213088,1783696.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-26,578490.0,1244574,1823064.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-27,599407.0,1271149,1870556.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-28,619995.0,1295275,1915270.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-29,637938.0,1321204,1959142.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-04-30,641896.0,1334649,1976545.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-01,648025.0,1341962,1989987.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-02,661826.0,1358624,2020450.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-03,707567.0,1379080,2086647.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-04,732363.0,1406739,2139102.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-05,761631.0,1433565,2195196.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-06,787203.0,1455107,2242310.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-07,811820.0,1471603,2283423.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-08,842665.0,1481071,2323736.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-09,859365.0,1496989,2356354.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-10,895524.0,1523557,2419081.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-11,921803.0,1553259,2475062.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-12,948813.0,1579430,2528243.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-13,968517.0,1599121,2567638.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-14,999317.0,1619701,2619018.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-15,1018771.0,1635118,2653889.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-16,1032856.0,1655094,2687950.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-17,1063026.0,1686131,2749157.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-18,1093837.0,1715714,2809551.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-19,1116489.0,1747465,2863954.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-20,1138857.0,1779935,2918792.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-21,1158138.0,1815225,2973363.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-22,1170034.0,1841169,3011203.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-23,1176230.0,1863753,3039983.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-24,1185962.0,1887179,3073141.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-25,1198863.0,1930643,3129506.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-26,1210994.0,1978069,3202272.0,"Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-27,1223413.0,2027401,3263722.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-28,1233167.0,2068425,3314281.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-29,1238403.0,2098257,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-30,1245382.0,2124090,3348871.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-05-31,1266895.0,2160233,3438466.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-01,1284584.0,2199980,3495075.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-02,1301988.0,2242599,3554231.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-03,1325726.0,2278849,3612098.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-04,1340027.0,2320252,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-05,1347539.0,2355246,3665526.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-06,1362679.0,2385209,3749225.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-07,1384549.0,2438827,3820991.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-08,1409236.0,2492335,3896573.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-09,1433491.0,2545133,3972034.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-10,1451018.0,2604012,4045284.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-11,1469358.0,2652504,4109035.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-12,1482260.0,2686076,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-13,1495649.0,2719689,4152819.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-14,1517754.0,2772186,4267769.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-15,1536396.0,2832567,4345062.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-16,1562384.0,2884486,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-17,1584015.0,2935511,4427939.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-18,1611243.0,2970432,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-19,1629286.0,2994178,4554158.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-20,1645011.0,3023336,4611850.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-21,1671032.0,3062780,4703566.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-22,1698133.0,3109196,4776243.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-23,1730763.0,3147604,4846625.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-24,1765249.0,3181375,4913766.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-25,1798047.0,3210504,4975336.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-26,1820638.0,3229543,5016668.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-27,1844911.0,3245689,5056765.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-28,1879220.0,3276221,5120632.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-29,1921465.0,3306701,5192820.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-06-30,1960081.0,3339458,5263677.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-01,2000715.0,3371167,5335577.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-02,2044816.0,3390742,5398716.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-03,2077523.0,3402314,5442863.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-04,2106878.0,3415137,5484919.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-05,2149976.0,3447666,5559851.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-06,2192269.0,3487908,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-07,2231923.0,3534375,5642905.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-08,2268806.0,3581649,5812028.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-09,2302010.0,3626804,5890105.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-10,2323751.0,3657692,5942561.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-11,2345751.0,3692433,5999248.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-12,2400307.0,3727989,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-13,2449978.0,3768797,6088821.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-14,2494730.0,3811988,6266892.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-15,2548220.0,3845151,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-16,2591730.0,3875299,6353144.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-17,2618137.0,3899748,6477508.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-18,2652069.0,3920182,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-19,2706656.0,3952772,6531932.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-20,2763181.0,3985861,6707916.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-21,2818287.0,4015993,6792878.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-22,2870087.0,4040377,6868767.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-23,2913771.0,4065181,6937158.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-24,2937518.0,4082803,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-25,2969093.0,4096228,6978645.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-26,3011152.0,4121275,7090073.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-27,3055971.0,4144411,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-28,3099283.0,4163445,7157842.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-29,3138277.0,4182278,7277777.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-30,3173100.0,4196512,7326543.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-07-31,3193154.0,4202997,7353133.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-01,3212353.0,4211822,7381165.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-02,3252995.0,4228164,7437151.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-03,3296077.0,4241665,7493625.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-04,3340681.0,4253090,7549532.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-05,3380579.0,4264552,7600721.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-06,3420575.0,4274516,7650641.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-07,3447597.0,4282260,7685348.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-08,3483553.0,4286371,7725456.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-09,3539052.0,4296388,,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-10,3593845.0,4306299,7790238.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-11,3651431.0,4312525,7918713.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-12,3701598.0,4318521,7974868.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-13,3748544.0,4324965,8028257.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-14,3783926.0,4329288,8068015.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-15,3821431.0,4333794,8110049.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-16,3866512.0,4341045,8161508.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-17,3904225.0,4348189,8206273.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-18,3940859.0,4353733,8248309.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-19,3967361.0,4359910,8280915.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-20,3996111.0,4364850,8314404.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-21,4015810.0,4369380,8338662.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+2021-08-22,4032000.0,4372404,8357922.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Denmark,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
